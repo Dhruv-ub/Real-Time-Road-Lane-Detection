@@ -10,8 +10,6 @@ It performs **classical (non-deep-learning) lane detection** on a road video usi
 - **Left/Right lane estimation** via **slope/intercept + weighted averaging**
 - **Lane overlay** on top of each frame to produce an output video
 
-The logic follows the same overall approach described in the GeeksforGeeks article:
-https://www.geeksforgeeks.org/machine-learning/opencv-real-time-road-lane-detection/
 
 ---
 
